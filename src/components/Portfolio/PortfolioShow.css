@@ -1,0 +1,18 @@
+.mana-reduce-stock-box {
+  position: relative;
+  box-sizing: border-box;
+  border: 2px solid rebeccapurple;
+}
+.mana-reduce-stock-box .mana-reduce-stock-btn {
+
+}
+.mana-reduce-stock-box .mana-reduce-stock-content {
+  position: fixed;
+  width: 200px;
+  height: 100px;
+  background: skyblue;
+  top: 0;
+  left: 0;
+  z-index: 999;
+
+}

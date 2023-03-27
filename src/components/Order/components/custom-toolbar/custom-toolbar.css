@@ -1,0 +1,10 @@
+.botx-ticker-toast {
+    border: 2px solid rgba(237, 60, 80, 0.5);
+    background: rgba(245, 64, 85, 0.25);
+    font-size: 16px;
+    font-weight: bold;
+    color: #ab2131;
+    padding: 6px;
+    margin-left: 20px;
+    border-radius: 4px;
+}
